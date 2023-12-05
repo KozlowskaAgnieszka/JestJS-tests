@@ -1,3 +1,1 @@
-JEST.JS
-
-A simple calculator written using HTML, CSS and JavaScript created for testing purposes using the JestJS library.
+Check out the brainy **Jest.js** library in action with a super cool calculator! This little guy was whipped up using HTML, CSS, and JavaScript for the ultimate test drive.
