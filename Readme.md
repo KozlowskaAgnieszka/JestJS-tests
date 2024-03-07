@@ -1,3 +1,3 @@
-Check out the brainy **Jest.js** library in action with a super cool calculator! This little guy was whipped up using HTML, CSS, and JavaScript for the ultimate test drive.
+This simple calculator was created using HTML, CSS, and JavaScript for testing purposes using **Jest.js** library.
 
-A top-notch project brought to life during the INCO Academy's epic [INCODE course](https://incoacademy.pl/programs/118)!
+A project created during the INCO Academy's [INCODE course](https://incoacademy.pl/programs/118)!
